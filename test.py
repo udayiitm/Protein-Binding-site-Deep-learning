@@ -10,7 +10,6 @@ import matplotlib as mpl
 import numpy as np
 import seaborn as sns
 
-#sys.path.append("/home/yusef/Development/FCI/PUResNet")
 
 from feature_extractor import FeatureExtractor
 from mol_3d_grid import Mol3DGrid
